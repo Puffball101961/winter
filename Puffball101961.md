@@ -26,7 +26,7 @@ Prices are converted from AUD to USD, they may fluctuate slightly.
 
 | Product | Supplier/ Link | Price |
 |-------- |----------------|-------|
-| P2.5 64x32 RGB Matrix Panel x2 | [Aliexpress](https://www.aliexpress.com/item/4000002686894.html) | $40.00 |
+| P2.5 64x32 RGB Matrix Panel x2 | [Core Electronics](https://core-electronics.com.au/rgb-full-color-led-matrix-panel-25mm-pitch-64x32-pixels.html) | $65.00 |
 | 5V 10A Power Supply | [Aliexpress](https://www.aliexpress.com/item/4001085007933.html) | $16.00 |
 | Power Supply Socket | [Aliexpress](https://www.aliexpress.com/item/1005002421876736.html) | $2.50 |
 | Adafruit RGB Matrix HAT + RTC for RPi | [Core Electronics](https://core-electronics.com.au/adafruit-rgb-matrix-hat-rtc-for-raspberry-pi-mini-kit.html)  |  $33.05 |
@@ -36,4 +36,4 @@ Prices are converted from AUD to USD, they may fluctuate slightly.
 | Core Electronics Shipping Charge | | $6.00 |
 | Miscellaneous Wires (owned) | | $0.00 |
 | 1kg Matte Black 3d Printer PLA Filament | [Amazon AU](https://www.amazon.com.au/eSUN-Matte-PLA-Filament-1-75mm-Low-Density-Matte-3D-Printer-PLA-Filament-1KG-Spool-3D-Printing-Filament-for-3D-Printers-Deep-Black/dp/B09MK1VLFM) | $25.50 |
-| Total | | $160.55 |
+| Total | | $185.55 |
